@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 </a>
 
 
+![](https://img.shields.io/badge/OS-Arch%20btw-ffbf00?style=for-the-badge&logo=archlinux)
