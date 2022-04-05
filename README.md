@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-Vue-4FC08D?style=for-the-badge&labelColor=272935&logo=vue)
 ![](https://img.shields.io/badge/Framework-Svelte-FF3E00?style=for-the-badge&labelColor=272935&logo=svelte)
 ![](https://img.shields.io/badge/Lang-Php-777BB4?style=for-the-badge&labelColor=272935&logo=php)
-![](https://img.shields.io/badge/Lang-C%20#-239120?style=for-the-badge&labelColor=272935&logo=csharp)
+![](https://img.shields.io/badge/Lang-C%23-239120?style=for-the-badge&labelColor=272935&logo=csharp)
 
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&labelColor=272935&logo=visualstudiocode)
