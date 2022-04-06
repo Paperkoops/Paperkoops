@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paperkoops&count_private=true&show_icons=true&show_icons=true&theme=ayu-mirage" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperkoops&theme=ayu-mirage" />
-</a>
+<h2><img src="" width="10"> Sup there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> </h2>
+<img align='right' src="/assets/1.gif?raw=true" width="230">
+<p><em>Typescrypt Enjoyer
+</em></p>
 
 
 ![](https://img.shields.io/badge/OS-Arch%20btw-1793d1?style=for-the-badge&labelColor=272935&logo=archlinux)
