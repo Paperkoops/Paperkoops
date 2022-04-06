@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 <h2><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"> Sup there! fellow 【🅳🅴🆅🆂】 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> </h2>
+</div>
   
   <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> -->
 
