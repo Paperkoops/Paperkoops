@@ -1,4 +1,4 @@
-<img align='center' width="100%" src="/assets/header.gif?raw=true" width="230">
+<img align='center' width="100%" src="/assets/header2.gif?raw=true" width="230">
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -67,8 +67,19 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=272935&logo=springboot)
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&labelColor=272935&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=272935&logo=intellijidea)
+
 ---
 
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paperkoops&count_private=true&show_icons=true&show_icons=true&theme=shades-of-purple" />
+</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperkoops&theme=ayu-mirage" />
+</a> -->
+</div>
+
+---
 
 
 
