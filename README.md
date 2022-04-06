@@ -1,3 +1,4 @@
+<img align='center' src="/assets/header.gif?raw=true" width="230">
 ### Hi there 👋
 
 <!--
