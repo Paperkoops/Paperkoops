@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&labelColor=272935&logo=node.js)
 ![](https://img.shields.io/badge/Framework-Angular-DD0031?style=for-the-badge&labelColor=272935&logo=angular)
 ![](https://img.shields.io/badge/Framework-ReactJs-61DAFB?style=for-the-badge&labelColor=272935&logo=react)
-![](https://img.shields.io/badge/Framework-Vue-4FC08D?style=for-the-badge&labelColor=272935&logo=vue)
+![](https://img.shields.io/badge/Framework-Vue-4FC08D?style=for-the-badge&labelColor=272935&logo=vue.js)
 ![](https://img.shields.io/badge/Framework-Svelte-FF3E00?style=for-the-badge&labelColor=272935&logo=svelte)
 ![](https://img.shields.io/badge/Lang-Php-777BB4?style=for-the-badge&labelColor=272935&logo=php)
 ![](https://img.shields.io/badge/Lang-C%23-239120?style=for-the-badge&labelColor=272935&logo=csharp)
