@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Lang-Php-777BB4?style=for-the-badge&labelColor=272935&logo=php)
 ![](https://img.shields.io/badge/Lang-C%23-239120?style=for-the-badge&labelColor=272935&logo=csharp)
 ![](https://img.shields.io/badge/Lang-Java-007396?style=for-the-badge&labelColor=272935&logo=Oracle)
+![](https://img.shields.io/badge/Lang-Prolog-EF323D?style=for-the-badge&labelColor=272935&logo=duolingo)
 ![](https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=272935&logo=springboot)
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&labelColor=272935&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=272935&logo=intellijidea)
