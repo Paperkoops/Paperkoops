@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Arch%20btw-1793d1?style=for-the-badge&labelColor=272935&logo=archlinux)
 ![](https://img.shields.io/badge/Lang-Javascript-ffbf00?style=for-the-badge&labelColor=272935&logo=javascript)
 ![](https://img.shields.io/badge/Lang-Typescrypt-2d79c7?style=for-the-badge&labelColor=272935&logo=typescript)
+![](https://img.shields.io/badge/Lang-Go-2d79c7?style=for-the-badge&labelColor=272935&logo=go)
 ![](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&labelColor=272935&logo=node.js)
 ![](https://img.shields.io/badge/Framework-Angular-DD0031?style=for-the-badge&labelColor=272935&logo=angular)
 ![](https://img.shields.io/badge/Framework-ReactJs-61DAFB?style=for-the-badge&labelColor=272935&logo=react)
